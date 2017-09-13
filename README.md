@@ -1,2 +1,2 @@
-# BlogComments
-This repo is used to store comments of https://codeyu.com/
+# Blog Comments
+This repo is used to store comments of http://codeyu.com/
